@@ -1,0 +1,50 @@
+[
+    {
+        "first_name": "Никита",
+        "surname": "Беспалов",
+        "avatar": "./images/people-8.png",
+        "position": "Креативный-директор"
+    },
+    {
+        "first_name": "Варвара",
+        "surname": "Мудрых",
+        "avatar": "./images/people-2.png",
+        "position": "Сценарист, художник, дизайнер"
+    },
+    {
+        "first_name": "Анастасия",
+        "surname": "Селихова",
+        "avatar": "./images/people-11.png",
+        "position": "Художник"
+    },
+    {
+        "first_name": "Никита",
+        "surname": "Странев",
+        "avatar": "./images/people-5.png",
+        "position": "3D-моделлер"
+    },
+    {
+        "first_name": "Елисей",
+        "surname": "Мирковский",
+        "avatar": "./images/people-6.png",
+        "position": "3D-моделлер"
+    },
+    {
+        "first_name": "Олег",
+        "surname": "Щендригин",
+        "avatar": "./images/people-12.png",
+        "position": "3D-моделлер"
+    },
+    {
+        "first_name": "Фёдор",
+        "surname": "Мизин",
+        "avatar": "./images/people-10.png",
+        "position": "Сценарист"
+    },
+    {
+        "first_name": "Роман",
+        "surname": "Механошин",
+        "avatar": "./images/people-4.png",
+        "position": "Бета-тестер"
+    }
+]
